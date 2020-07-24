@@ -1,6 +1,6 @@
 import uniqid from 'uniqid';
 
-export default class list {
+export default class List {
     constructor() {
         this.item = [];
     }
